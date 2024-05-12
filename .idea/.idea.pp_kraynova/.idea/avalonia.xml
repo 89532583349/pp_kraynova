@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="pp_kraynova/App.axaml" value="pp_kraynova/pp_kraynova.csproj" />
+        <entry key="pp_kraynova/MainWindow.axaml" value="pp_kraynova/pp_kraynova.csproj" />
+        <entry key="pp_kraynova/hzchtoeto.axaml" value="pp_kraynova/pp_kraynova.csproj" />
+        <entry key="pp_kraynova/postavte3.axaml" value="pp_kraynova/pp_kraynova.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
